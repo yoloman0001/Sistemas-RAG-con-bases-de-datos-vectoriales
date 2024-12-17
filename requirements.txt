@@ -1,0 +1,10 @@
+chromadb
+requests
+bs4
+PyMuPDF
+langchain
+langchain_huggingface
+langchain_chroma
+langchain_ollama
+langchain-text-splitters
+ollama
