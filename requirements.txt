@@ -1,7 +1,7 @@
-chromadb
 requests
 bs4
 PyMuPDF
+gradio
 langchain
 langchain_huggingface
 langchain_chroma

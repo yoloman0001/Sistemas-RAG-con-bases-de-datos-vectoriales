@@ -41,8 +41,30 @@ pip install -r requirements.txt
 
 ## :bookmark_tabs: Instrucciones
 
-Construirás diferentes RAGs utilizando diferentes componentes. Puedes utilizar diferentes notebooks:
 1. RAG en inglés que crea vector store a partir de datos de una página web.
+
+Ejecuta el archivo `RAG_ingles.ipynb`, puedes cambiar la URL por una de tu elección.
+
+~~~
+python RAG_ingles.ipynb
+~~~
+
 2. RAG en castellano que crea vector store a partir de uno o varios ficheros pdf.
+
+Ejecuta el archivo `RAG_espanol.ipynb`, el script tomará el PDF que viene incluido en este repositorio, pero puedes cambiarlo por otro.
+
+~~~
+python RAG_espanol.ipynb
+~~~
+
 3. Crear unha GUI para uno de los RAGs anteriores.
+
+Ejecuta el archivo `GUI_RAG_ingles.ipynb`, luego accede a la URL local de la interfaz Gradio desde navegador.
+
+~~~
+python GUI_RAG_ingles.ipynb
+~~~
+
 4. RAG dockerizado contra Mongo Atlas.
+
+
